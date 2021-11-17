@@ -13,7 +13,7 @@
 <body>
     <div id="main" class="container">
         <div class="row my-card justify-content-center">
-            <div class="col-lg-4 photo-bg" style="background-image: url(http://q1.qlogo.cn/g?b=qq&nk=1456213384&s=640);"></div>
+            <div class="col-lg-4 photo-bg" style="background-image: url(http://q1.qlogo.cn/g?b=qq&nk=2490762629&s=640);"></div>
             <div class="col-lg-8 card">
                 <h1>你好,我是樊爹</h1>
                 <p>fny真的是个崽种
